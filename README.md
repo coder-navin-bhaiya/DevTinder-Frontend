@@ -9,7 +9,6 @@
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
