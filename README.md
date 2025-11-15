@@ -9,7 +9,7 @@
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  **Backend:** [devTinder Backend](https://github.com/akshadjaiswal/devTinder-backend)
+-  
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
